@@ -1,4 +1,4 @@
-# project-template-electron-vue-vuetify
+# project-electron-vuetify
 
 ## Project setup
 ```
